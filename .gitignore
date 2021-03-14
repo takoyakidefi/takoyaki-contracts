@@ -7,3 +7,12 @@
 /test/
 /accounts.json
 /truffle-config.js
+/contracts/bin/
+/contracts/bscscan/
+.secret
+.secret-testnet
+.env
+/package-lock.json
+/pakcage.json
+/yarn.lock
+
