@@ -5,8 +5,6 @@
 ## Deployed Contracts / Hash
 
 ### BSCMAINNET
-
-<!--- EggToken - https://bscscan.com/token/0xf952fc3ca7325cc27d15885d37117676d25bfda6-->
-<!--- MasterChef - https://bscscan.com/address/0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57-->
-<!--- Timelock - https://bscscan.com/address/0x2Ef488DE034567e9B8D312928fD52812A242aB3A-->
-<!--- MultiCall - https://bscscan.com/address/0x1ee38d535d541c55c9dae27b12edf090c608e6fb-->
+TakoyakiToken - 0x440676a18d9792215500b1bc06341eb169e6e74b
+MasterChefV2 - 0x69228253d69e14e9f6d994b8f73590c24d3d26e2
+Timelock - 0x7fab47f334f9f73229d2dc8e6a5e232958093f91
